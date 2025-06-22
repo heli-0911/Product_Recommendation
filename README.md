@@ -38,7 +38,7 @@ This is a machine learning-powered product recommendation system that suggests s
 | `actual_price`   | Original price               |
 
 🙌 Credits
-Developed by: Heli Bhavsar and Daksh Bhavsar
-Data sourced from: Amazon product listings
+- Developed by: Heli Bhavsar and Daksh Bhavsar
+- Data sourced from: Amazon product listings
 
 
